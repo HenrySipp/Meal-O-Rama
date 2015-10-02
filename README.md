@@ -1,2 +1,2 @@
 # Meal-O-Rama
-Personal project 
+An app I made in high school, recently remade completely in Swift.
